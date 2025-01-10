@@ -22,7 +22,10 @@ Statistical analysis of random sampling techniques
 ## Libraries and Packages Used
 This project makes use of several key R libraries to facilitate statistical computation and visualization:
 
-ggplot2: For creating high-quality, customizable plots and visualizations
-lpSolve: For solving linear programming problems
-plot3D: For graphing a 3D joint probability distribution
+### ggplot2: 
+For creating high-quality, customizable plots and visualizations
+### lpSolve: 
+For solving linear programming problems
+### plot3D: 
+For graphing a 3D joint probability distribution
 
